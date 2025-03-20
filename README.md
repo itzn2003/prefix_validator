@@ -26,7 +26,7 @@ A comprehensive tool for extracting and validating IP prefixes from various file
 ## Installation
 
 ### NOTE
-- you mast have `python 3.7+` installed to run. Download from https://www.python.org/downloads/ and follow the instructions in the installer
+- you must have `python 3.7+` installed to run. Download from https://www.python.org/downloads/ and follow the instructions in the installer
 - you must have `git` installed. If not, install from: https://git-scm.com/downloads
 
 1. Clone this repository:
