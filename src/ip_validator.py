@@ -2,7 +2,7 @@
 IP Prefix Validator Module
 
 This module validates IP prefixes using the RIPE NCC RPKI validator API.
-It communicates directly with the RPKI validation service via HTTP requests.
+It communicates directly with the Routinator service via HTTP requests.
 """
 
 import requests
