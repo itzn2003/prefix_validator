@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
-Prefix Validator - Main Integration Script
-
 This script combines IP prefix extraction and validation into a single workflow.
-Uses the RIPE NCC RPKI validator API for prefix validation.
+Uses the RIPE NCC Routinator API for prefix validation.
 """
 
 import os
