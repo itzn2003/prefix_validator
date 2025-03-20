@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ### Running the Complete Workflow
 
 To extract and validate IP prefixes in a single operation:
-- replace `input_file.txt` wiht path to your actual input file
+- replace `input_file.txt` with path to your actual input file
 - replace `XXX` with actual ASN you are using
 
 ```bash
