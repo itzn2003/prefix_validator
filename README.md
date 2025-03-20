@@ -25,13 +25,17 @@ A comprehensive tool for extracting and validating IP prefixes from various file
 
 ## Installation
 
+### NOTE
+- you mast have `python 3.7+` installed to run. Download from https://www.python.org/downloads/ and follow the instructions in the installer
+- you must have `git` installed. If not, install from: https://git-scm.com/downloads
+
 1. Clone this repository:
 ```
 git clone https://github.com/itzn2003/prefix_validator.git
 cd prefix_validator
 ```
 
-2. Create a virtual environment (recommended):
+2. Create a virtual environment (optional):
 ```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
